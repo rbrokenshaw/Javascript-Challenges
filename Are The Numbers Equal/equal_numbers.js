@@ -8,8 +8,8 @@ function isEqual(n1,n2) {
 // test the function
 
 // choose two numbers
-n1 = 2;
-n2 = 2;
+n1 = 1;
+n2 = "1";
 
 // display result of the function
 if (isEqual(n1,n2)) {
