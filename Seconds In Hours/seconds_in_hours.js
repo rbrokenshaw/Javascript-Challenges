@@ -5,4 +5,4 @@ function howManySeconds(hours) {
 
 // test the function
 
-console.log(howManySeconds(10))
+console.log(howManySeconds(10));
