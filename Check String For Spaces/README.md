@@ -9,6 +9,7 @@
 	<li>hasSpaces(" ") ➞ true</li>
 	<li>hasSpaces("") ➞ false</li>
 	<li>hasSpaces(",./!@#") ➞ false</li>
+</ul>
 
 <h3>Notes</h3>
 <ul>
